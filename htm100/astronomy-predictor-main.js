@@ -1,3 +1,5 @@
+// Link to CDN -> https://cdn.jsdelivr.net/gh/mics-global/cdn/htm100/astronomy-predictor-main.js
+
 const astronomy_predictor_base = 'https://api.weatherapi.com/v1/astronomy.json'
 const api_key = '5d483a1303e648fa989143924200205'
 var xhr = new XMLHttpRequest();
